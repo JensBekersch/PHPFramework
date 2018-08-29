@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /
+
+# Beispiele für das Umschreiben der URL:
+#RewriteRule ^(.*)/(.*)/(.*)$ /ea3/?cmd=$1&action=$2&id=$3
+#RewriteRule ^(.*)/$ /ea3/?cmd=$1
+
+
+
